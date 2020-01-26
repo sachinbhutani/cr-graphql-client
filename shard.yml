@@ -1,0 +1,9 @@
+name: cr-graphql-client
+version: 0.1.0
+
+authors:
+  - Sachin Bhutani <sachin1705@gmail.com>
+
+crystal: 0.32.1
+
+license: MIT
